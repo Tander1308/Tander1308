@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓢𝓸𝓫𝓻𝓮 𝓜𝓲𝓶 ~ 🦊 </h2>
-<img src="https://i.kym-cdn.com/photos/images/original/001/435/579/9ff.gif" align="right">
+<img src="https://media.giphy.com/media/fTn01fiFdTd5pL60ln/giphy.gif">
 <li>
 <b>Nome:</b> Yuki</li>
 
