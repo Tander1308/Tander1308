@@ -2,7 +2,7 @@
 <h1 align="center">~ 💖 𝓑𝓮𝓶 𝓥𝓲𝓷𝓭𝓸𝓼 𝓟𝓮𝓼𝓼𝓸𝓪𝓵 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://imgur.com/pnIFYHu.gif">
+<img src="https://tenor.com/view/toji-fushiguro-jjk-jujutsu-kaisen-toji-fushiguro-gif-2362126873482327818">
 </div>
 <br>
 <div>
