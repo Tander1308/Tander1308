@@ -9,19 +9,19 @@
 <h2 align="center"> 🦊 ~ 𝓢𝓸𝓫𝓻𝓮 𝓜𝓲𝓶 ~ 🦊 </h2>
 <img src="https://media.giphy.com/media/fTn01fiFdTd5pL60ln/giphy.gif">
 <li>
-<b>Nome:</b> Yuki</li>
+<b>Nome:</b> Tander</li>
 
 <li>
-<b>Gostos:</b> anime, osu, rythm games
+<b>Gostos:</b> Academia
 </li>
 <li>
-<b>Genero:</b> he/Male
+<b>Genero:</b> Macho
 </li>
 <li>
-<b>Hobby:</b> Pensamentos Tech, Design Grafico, Desenvolvimento Web (Ao final da pagina tem meu SITE de uma olhada)
+<b>Hobby:</b> Gosto de treinar
 </li>
 <li>
-<b>Trabalhando :</b> Construção de AntiCheat | Pentester | Desenvolvedor de Cheats e Venda de programas
+<b>Trabalhando : agricultor
 </li>
 <br><br><br>
 </div>
